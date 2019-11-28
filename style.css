@@ -1,0 +1,21 @@
+.mdl-navigation__link {
+	display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-weight: 500;
+}
+
+.nav-button {
+	color: #fff;
+}
+
+.button-icon {
+	margin-right: 20px;
+	margin-bottom: 3px;
+}
